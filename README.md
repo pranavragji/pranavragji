@@ -1,5 +1,6 @@
-### :man_technologist: I operate in two modes:
+
 <div id="header" align="center">
+  ### :man_technologist: I operate in two modes:
   <img src="https://media.giphy.com/media/uyoXx0qpUWfQs/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
 </div>
