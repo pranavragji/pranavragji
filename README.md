@@ -12,6 +12,9 @@
   <a href="mailto:pranav25ragji.de@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+ <a href="pranavr.vercel.app">
+    <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website"/>
+  </a>
 </div>
 
 <div align="center">
