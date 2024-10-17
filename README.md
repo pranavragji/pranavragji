@@ -56,14 +56,15 @@ In my free time, you’ll find me diving into new programming languages, contrib
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Cloud_Platform_logo.svg/512px-Google_Cloud_Platform_logo.svg.png" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Full_Stack_Logo.png/640px-Full_Stack_Logo.png" title="Full Stack" alt="Full Stack" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Consulting_icon.svg/2048px-Consulting_icon.svg.png" title="Consulting" alt="Consulting" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Data_Science_icon.svg/2048px-Data_Science_icon.svg.png" title="Data Science" alt="Data Science" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/UI_icon.svg/2048px-UI_icon.svg.png" title="UI" alt="UI" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/UX_icon.svg/2048px-UX_icon.svg.png" title="UX" alt="UX" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Backend_icon.svg/2048px-Backend_icon.svg.png" title="Backend" alt="Backend" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Data_Analytics_icon.svg/2048px-Data_Analytics_icon.svg.png" title="Data Analytics" alt="Data Analytics" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Full_Stack_Logo.svg/1200px-Full_Stack_Logo.svg.png" title="Full Stack" alt="Full Stack" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Consulting_icon.svg/512px-Consulting_icon.svg.png" title="Consulting" alt="Consulting" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Data_Science_icon.svg/512px-Data_Science_icon.svg.png" title="Data Science" alt="Data Science" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/UI_icon.svg/512px-UI_icon.svg.png" title="UI" alt="UI" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/UX_icon.svg/512px-UX_icon.svg.png" title="UX" alt="UX" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Backend_icon.svg/512px-Backend_icon.svg.png" title="Backend" alt="Backend" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Data_Analytics_icon.svg/512px-Data_Analytics_icon.svg.png" title="Data Analytics" alt="Data Analytics" width="40" height="40"/>&nbsp;
 </div>
+
 
 ---
 
