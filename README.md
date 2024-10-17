@@ -2,18 +2,20 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pranavragji/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="pranav25ragji.de@gmail.com">
+  <a href="mailto:pranav25ragji.de@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -26,7 +28,10 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my GitHub profile! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<div align="center">
+  Welcome to my GitHub profile! 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</div>
 
 Hi, I’m Pranav Ragji, a software developer and AI enthusiast with a Master’s in Applied Computer Science from SRH Heidelberg. My experience spans across various domains, including AI, machine learning, full-stack development, cloud infrastructure, and data analytics. I have worked with industry-leading organizations such as AWS and have developed scalable solutions to enhance modern technologies. With a passion for research and innovation, I’m continuously exploring the latest trends in AI, focusing on automation, optimization, and cutting-edge technologies.
 
@@ -36,7 +41,7 @@ In my free time, you’ll find me diving into new programming languages, contrib
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -55,16 +60,13 @@ In my free time, you’ll find me diving into new programming languages, contrib
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  
 </div>
-
 
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranavragji&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavragji&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=pranavragji&theme=dark&background=000000" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavragji&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
