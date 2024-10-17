@@ -1,7 +1,7 @@
  ### :man_technologist: I operate in two modes:
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uyoXx0qpUWfQs/giphy.gif" width="200" height="200"/>
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/uyoXx0qpUWfQs/giphy.gif" width="200" height="100"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200" height="100"/>
 </div>
 
 
