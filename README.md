@@ -38,7 +38,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </div>
 
-Hi, I’m Pranav Ragji, a software developer and AI enthusiast with a Master’s in Applied Computer Science from SRH Heidelberg. My experience spans across various domains, including AI, machine learning, full-stack development, cloud infrastructure, and data analytics. I have worked with industry-leading organizations such as AWS and have developed scalable solutions to enhance modern technologies. With a passion for research and innovation, I’m continuously exploring the latest trends in AI, focusing on automation, optimization, and cutting-edge technologies.
+Hi, I’m Pranav Ragji, a software developer and AI enthusiast with a Master’s in Applied Computer Science from Heidelberg. My experience spans across various domains, including AI, machine learning, full-stack development, cloud infrastructure, and data analytics. I have worked with industry-leading organizations such as AWS and have developed scalable solutions to enhance modern technologies. With a passion for research and innovation, I’m continuously exploring the latest trends in AI, focusing on automation, optimization, and cutting-edge technologies.
 
 In my free time, you’ll find me diving into new programming languages, contributing to open-source projects, or exploring how AI can be applied to make everyday life more efficient. Whether it’s building robust web applications or developing intelligent systems, I enjoy the challenge of bringing ideas to life through code.
 
