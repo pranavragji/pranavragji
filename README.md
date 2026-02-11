@@ -1,8 +1,3 @@
- ### :man_technologist: I operate in two modes:
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/uyoXx0qpUWfQs/giphy.gif" width="200" height="100"/>
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200" height="100"/>
-</div>
 
 
 <div id="badges" align="center">
@@ -33,10 +28,6 @@
 
 ### :man_technologist: About Me :
 
-<div align="center">
-  Welcome to my GitHub profile! 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</div>
 
 Hi, I’m Pranav Ragji, a software developer and AI enthusiast with a Master’s in Applied Computer Science from Heidelberg. My experience spans across various domains, including AI, machine learning, full-stack development, cloud infrastructure, and data analytics. I have worked with industry-leading organizations such as AWS and have developed scalable solutions to enhance modern technologies. With a passion for research and innovation, I’m continuously exploring the latest trends in AI, focusing on automation, optimization, and cutting-edge technologies.
 
@@ -69,9 +60,3 @@ In my free time, you’ll find me diving into new programming languages, contrib
 
 ---
 
-### :fire: My Stats :
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=pranavragji&theme=dark&background=000000" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavragji&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</div>
