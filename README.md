@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranavragji/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ragji.com"><img src="https://img.shields.io/badge/ragji.com-111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:pranav25ragji.de@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Munich,_Germany-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Munich, Germany"/>
 </p>
