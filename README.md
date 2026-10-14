@@ -20,20 +20,6 @@ I'm an IT Engineer at the **Chair for Mathematical Foundations of Artificial Int
 
 My work sits at the intersection of **infrastructure engineering and applied AI**. I manage GPU clusters, networking, and hardware for the chair, and I design and build **agentic AI systems** that automate real academic and administrative workflows.
 
-- Building an **agentic AI platform** for Math4AI
-- Running GPU compute, local LLM deployments, and secure networked access for the research chair
-- Exploring agentic system design, local inference stacks, and analog/edge AI hardware
-- Background in HPC cluster management (SLURM), homelab virtualization, and full-stack development
-
-### Current focus
-
-| Area | Stack |
-| :-- | :-- |
-| LLM serving | LiteLLM gateway, llama.cpp, vLLM, Ollama, Open WebUI |
-| Agents | Multi-agent pipelines for documents, budgeting, and travel; scoped MCP servers |
-| Data | Qdrant, PostgreSQL, Redis, MinIO |
-| Systems | SLURM / HPC, Proxmox, TrueNAS, pfSense, VLAN and firewall administration |
-| Hardware | GPU clusters and edge AI accelerators for production LLM workloads |
 
 ### Tech
 
@@ -43,6 +29,4 @@ My work sits at the intersection of **infrastructure engineering and applied AI*
 
 ### Outside work
 
-Based in Munich. Away from the racks and the agents, I'm on the tennis court, cooking, reading sci-fi, or tending to my plants.
-
-<p align="center"><i>Open to collaborating on agentic AI and infrastructure projects. Reach out on LinkedIn or by email.</i></p>
+<p align="center"><i>Open to collaborating. Reach out on LinkedIn or by email.</i></p>
